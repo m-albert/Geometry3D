@@ -12,7 +12,7 @@ setup(
         description="A 3D Geometry Lib",
         long_description=read("README.md"),
 
-        url="https://github.com/GouMinghao/Geometry3D",
+        url="https://github.com/m-albert/Geometry3D",
 
         author="Minghao Gou",
         author_email="gouminghao@gmail.com",
