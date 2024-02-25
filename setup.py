@@ -6,7 +6,7 @@ def read(name):
         return fd.read()
 
 setup(
-        name="Geometry3D",
+        name="Geometry3D_vendored",
         version="0.3.0",
 
         description="A 3D Geometry Lib",
