@@ -12,8 +12,8 @@
 from Geometry3D import *
 import time
 
-set_log_level('INFO')
 logger = get_main_logger()
+logger.set_log_level('INFO')
 t1 = time.time()
 o = Point(0,0,0)
 t2 = time.time()
